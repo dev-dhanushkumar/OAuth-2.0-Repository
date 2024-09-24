@@ -1,5 +1,7 @@
-### ALL OAUTH PROJECT DEVELOPMENT
+<script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.8/dist/mermaid.min.js"></script>
 
+### ALL OAUTH PROJECT DEVELOPMENT
+```mermaid
     sequenceDiagram
     participant User
     participant Client
@@ -23,5 +25,5 @@
     Google-->>Backend: Return user info
     Backend-->>Client: Return user info and session token
     Client->>User: Display logged-in state
-
+```
 
