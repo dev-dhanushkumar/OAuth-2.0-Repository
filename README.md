@@ -1,4 +1,4 @@
-<script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.8/dist/mermaid.min.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/mermaid@8.4.8/dist/mermaid.min.js"></script> -->
 
 ### ALL OAUTH PROJECT DEVELOPMENT
 ```mermaid
